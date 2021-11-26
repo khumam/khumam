@@ -1,7 +1,40 @@
-### Hello World 👋
-Senang bisa menyapa. My name is Khoerul Umam.
+## Hello awesome world! I'm Khoerul Umam ✌
+Nice to say hello on your visit. Welcome to the world of imagination that I always develop!
 
+### I'm a web developer focused on the backend, but sometimes also fullstack 🎃
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning everything
+- 🎮 Love playing games and coding
+- 🧿 Start to learn mobile development journey
 - 💬 Ask me about anything
-- 📫 How to reach me: [Khoerul Umam](https://khoerulumam.now.sh)
+
+### Connect with me 📞
+
+[<img align="left" alt="khumam | Twitter" width="22px" style='color: #fff' src="https://cdn-icons-png.flaticon.com/512/185/185961.png" />](https://twitter.com/wanderingonrain)
+[<img align="left" alt="khumam | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png" />](https://linkedin.com/in/khoerulumam)
+[<img align="left" alt="khumam | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/185/185985.png" />](https://instagram.com/thekhoerulumam)
+<br>
+### My Fav Languages and Tools 🎨
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />](html)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />](css)
+[<img align="left" alt="Sass" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" />](sass)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png" />](typescript)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />](python)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />](javascript)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />](php)
+[<img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />](nodejs)
+[<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />](sql)
+[<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />](mysql)
+[<img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />](git)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" />](github)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" />](gitlab)
+[<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/346/346841.png" />](terminal)
+<br>
+<br>
+
+![Khumam's GitHub stats](https://github-readme-stats.vercel.app/api?username=khumam&count_private=true&show_icons=true)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khumam&layout=compact)

@@ -2,8 +2,7 @@
 Nice to say hello on your visit. Welcome to the world of imagination that I always develop!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=khumam.khumam)
-
-### I'm a web developer focused on the backend, but sometimes also fullstack 🎃
+## I'm a web developer focused on the backend, but sometimes also fullstack 🎃
 I really love code and make programs that can be useful for everyone. Several programming languages I learned. I also really like machine learning. For me coding can have a big impact on the world.
 
 - 🌱 I’m currently learning everything
@@ -28,7 +27,6 @@ I often use programming languages, tools, and some other tools on my way to beco
 |<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />|<img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />|<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" />|<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" />|<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/346/346841.png" />|
 <br>
 <br>
-
 ## 📃 Current Stats
 ![Khumam's GitHub stats](https://github-readme-stats.vercel.app/api?username=khumam&count_private=true&show_icons=true&theme=tokyonight)
 <br>

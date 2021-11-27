@@ -40,8 +40,6 @@ const myBrain = brain.merge(myLanguange.add(languageList), myTools.add(toolList)
 console.log(myBrain) // full of happiness if we are always grateful for what we get
   
 ```
-<br>
-<br>
 ## 📃 Current Stats
 
 ![Khumam's GitHub stats](https://github-readme-stats.vercel.app/api?username=khumam&count_private=true&show_icons=true&theme=tokyonight)

@@ -1,14 +1,13 @@
 ## Hello awesome world! I'm Khoerul Umam ✌
-Nice to say hello on your visit. Welcome to the world of imagination that I always develop!
+It brings me great joy to greet you on your visit! Welcome to the enchanting realm of imagination that I continuously nurture and explore!
 
 ![GitHub followers](https://img.shields.io/github/followers/khumam)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=khumam.khumam) 
-## I'm a web developer focused on the backend 🎃
-I really love code and make programs that can be useful for everyone. Several programming languages I learned. I also really like machine learning. For me coding can have a big impact on the world.
+## I'm a fullstack software engineer 🎃
+I derive immense joy from coding and crafting programs that hold the potential to benefit everyone. I have delved into numerous programming languages, expanding my skill set. To me, coding represents a gateway to creating a significant impact on the world.
 
 - 🌱 I’m currently learning everything
 - 🎮 Love playing games and coding
-- 🧿 Start to learn mobile development journey
 - 💬 Ask me about anything
 
 ## ☎ Connect with me
